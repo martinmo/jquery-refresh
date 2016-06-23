@@ -1,6 +1,11 @@
 /**
  * Refresh is a jQuery plugin which makes it easy to continuously update
  * selected elements with data polled from an arbitrary JSON endpoint.
+ *
+ * @author Martin Morgenstern
+ * @license GNU GPL v3 - https://opensource.org/licenses/GPL-3.0
+ *
+ * Copyright (C) 2016 Martin Morgenstern
  */
 
 +function($) {
